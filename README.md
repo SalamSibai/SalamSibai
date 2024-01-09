@@ -1,6 +1,6 @@
 # Hello World, I'm Salam Sibai!
 
-I enjoy making games, but make VR simulations for a living. *cries*
+I enjoy making games, and make VR simulations for a living.
 Currently a student at 42 Abu Dhabi. 
 
 <!--
