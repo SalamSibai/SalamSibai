@@ -2,6 +2,8 @@
 
 ### Game Designer and Developer 🎮 VR Developer for a living 👩🏻‍💻 42 Abu Dhabi Student 
 
+**Portfolio**
+**https://salamsibai.github.io/**
 
 **Tools and languages**
 
