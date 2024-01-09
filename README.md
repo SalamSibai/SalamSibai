@@ -5,7 +5,7 @@
 
 <h2 align="center"> Game Designer and Developer 🎮 VR Developer for a living 👩🏻‍💻 42 Abu Dhabi Student </h2>
 
-<h4 align ="center">Tools and languages</h4>
+<h3 align ="center">Tools and languages</h3>
 
 
 
