@@ -5,7 +5,7 @@
 
 **Tools and languages**
 
-<img src = "/images/UNITY.png" width= "50" height= "50"> <img src = "/images/ue.png" width= "50" height= "50"> <img src = "/images/SEESHARP.png" width= "45" height= "50"> <img src = "/images/ISO_C++_Logo.svg.png" width= "45" height= "50"> <img src = "/images/C_Logo.png" width= "45" height= "50"> <img src = "/images/firebase.png" width= "50" height= "50"> <img src = "/images/sql.png" width= "50" height= "50"> <img src = "/images/mysql.png" width= "50" height= "50">
+<img src = "/images/UNITY.png" width= "50" height= "50"> <img src = "/images/ue.png" width= "50" height= "50"> <img src = "/images/SEESHARP.png" width= "45" height= "50"> <img src = "/images/ISO_C++_Logo.svg.png" width= "45" height= "50"> <img src = "/images/C_Logo.png" width= "45" height= "50"> <img src = "/images/firebase.png" width= "40" height= "50"> <img src = "/images/sql.png" width= "50" height= "50"> <img src = "/images/mysql.png" width= "50" height= "50">
 
 <!--
 **SalamSibai/SalamSibai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
