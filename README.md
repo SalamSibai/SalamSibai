@@ -4,7 +4,9 @@
 
 
 **Tools and languages**
-![Tool1](images\UNITY.png)
+
+<img src = "/images/UNITY.png" width= "50" height= "50"> <img src = "/images/ue.png" width= "50" height= "50"> <img src = "/images/c#.png" width= "50" height= "60"> <img src = "/images/ISO_C++_Logo.svg.png" width= "50" height= "60"> <img src = "/images/C_Logo.png" width= "50" height= "60">
+
 <!--
 **SalamSibai/SalamSibai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
