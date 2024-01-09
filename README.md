@@ -1,5 +1,3 @@
-# Hello World, I'm Salam!
-
 <p align="center">
   <img src="images/MTrKXO.gif" alt="Example GIF">
 </p>
