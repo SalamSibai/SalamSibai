@@ -1,7 +1,6 @@
 # Hello World, I'm Salam Sibai!
 
-I enjoy making games, and make VR simulations for a living.
-Currently a student at 42 Abu Dhabi. 
+Game designer and developer 🎮 VR Developer for a living 👩🏻‍💻 42 Abu Dhabi Student 
 
 <!--
 **SalamSibai/SalamSibai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
