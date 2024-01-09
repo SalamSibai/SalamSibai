@@ -1,6 +1,5 @@
-# Header 1
-Hello World;
-#
+# Hello World;
+
 I enjoy making games, but make VR simulations for a living. *cries*
 Currently a student at 42 Abu Dhabi. 
 
