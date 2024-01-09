@@ -5,8 +5,7 @@
 
 **Tools and languages**
 
-<img src = "/images/UNITY.png" width= "50" height= "50">
-<img src = "/images/ue.png" width= "50" height= "50">
+<img src = "/images/UNITY.png" width= "50" height= "50"><img src = "/images/ue.png" width= "50" height= "50">
 
 <!--
 **SalamSibai/SalamSibai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
