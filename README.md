@@ -1,4 +1,4 @@
-# Hello World;
+# Hello World, I'm Salam!
 
 ### Game Designer and Developer 🎮 VR Developer for a living 👩🏻‍💻 42 Abu Dhabi Student 
 
