@@ -3,7 +3,7 @@
   <img src="images/MTrKXO.gif" alt="Example GIF">
 </p>
 
-<h2 align="center"> Game Designer and Developer 🎮 Ms in Computer Science student at DigiPen Institute of Technology 👩🏻‍💻 42 Abu Dhabi Student </h2>
+<h2 align="center"> Game Designer and Developer 🎮 Computer Science grad student at DigiPen Institute of Technology 👩🏻‍💻 42 Abu Dhabi Student </h2>
 
 <h3 align ="center">Tools and languages</h3>
 
